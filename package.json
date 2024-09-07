@@ -15,5 +15,8 @@
     "grunt-contrib-cssmin": "^5.0.0",
     "grunt-contrib-uglify": "^5.2.2",
     "grunt-eslint": "^25.0.0"
+  },
+  "dependencies": {
+    "eslint": "^9.10.0"
   }
 }
